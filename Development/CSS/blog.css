@@ -1,0 +1,7 @@
+body{
+	background: linear-gradient(to right,#feada6,#f5efef);
+}
+body p {
+	font-size: 25px;  color: #009688; font-family: 'poppins',sans-serif; text-align: center;
+}
+
